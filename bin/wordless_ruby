@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-export RBENV_ROOT="/Users/stefanoverna/.rbenv"
+export RBENV_ROOT="/Users/spleenteo/.rbenv"
 export PATH=$RBENV_ROOT/shims:$PATH
 eval "$(rbenv init -)"
 export RBENV_VERSION='2.0.0-p0'

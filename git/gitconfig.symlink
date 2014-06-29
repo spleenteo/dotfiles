@@ -35,8 +35,8 @@
   stop-local-ignore = update-index --no-assume-unchanged
 
 [user]
-  name = Stefano Verna
-  email = s.verna@cantierecreativo.net
+  name = Matteo Papadopoulos
+  email = m.papadopoulos@cantierecreativo.net
 
 [color]
   ui = auto
@@ -69,7 +69,7 @@
   prompt = false
 
 [github]
-  user = stefanoverna
+  user = spleenteo
 
 [push]
   default = simple
